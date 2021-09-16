@@ -1,4 +1,4 @@
-[![Header](https://github.com/albert11al/albert11al/blob/main/assets/github.png)](https://www.instagram.com/albert11al/)
+[![Header](https://github.com/albert11al/albert11al/blob/main/assets/github45.png)](https://www.instagram.com/albert11al/)
 
 ## I'm beginner software engineer
 
