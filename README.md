@@ -2,8 +2,6 @@
 
 ## I'm beginner software engineer
 
-Latest YouTube Videos
-
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-E1DD73?style=for-the-badge&logo=python)
 
